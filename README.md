@@ -1,4 +1,4 @@
-# Cafeteria Manager
+# Le Arabia
 
 This is a cafeteria maganement application for supporting multiple roles (customers, billing clerks and owner). Build with Ruby on Rails!
 
@@ -18,8 +18,8 @@ This is a cafeteria maganement application for supporting multiple roles (custom
 ## Sample User details
 **Admin**
 ```
-email: admin@admin.com
-password: admin@1234
+email: saumya@admin.com
+password: password
 ```
 
 **Customer**
